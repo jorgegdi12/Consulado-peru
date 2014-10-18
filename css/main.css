@@ -186,10 +186,17 @@ a.list-group-item:hover{
 }
 
 .mlpadd{
-    padding-top: 15px;
+    padding-top: 0px;
 }
-
-
+.pdimg{
+    padding-top: 15px; 
+}
+.panel-body {
+padding: 0px;
+}
+.paddcont {
+    margin-top: 10px;
+}
 
 
 
